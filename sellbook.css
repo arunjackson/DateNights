@@ -92,6 +92,7 @@ footer
 .card 
 {
     box-shadow: 0px 10px 20px red;
+    gap:10px;
   
 }
 /* css for login */
